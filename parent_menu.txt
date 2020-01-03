@@ -1,0 +1,7 @@
+id,nama,role,icon,link
+1,Home,1,mdi mdi-home,home
+2,Report,1,mdi mdi-file-chart,#
+3,Maintenance Data,1,mdi mdi-database-plus,#
+4,Manage User,2,mdi mdi-account-multiple,manage_user/m_pengelolaan_user
+5,Data Hari Libur,2,fas fa-calendar-minus,maintenance_data/C_hariLibur
+,,,,
